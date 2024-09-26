@@ -3,7 +3,7 @@ home: true
 config:
   -
     type: banner
-    banner: https://api.pengzhanbo.cn/wallpaper/bing
+    banner: https://bing.img.run/uhd.php
     bannerMask:
       light: 0.1
       dark: 0.3
@@ -21,3 +21,78 @@ config:
           link: https://github.com/WindSingElegy
           theme: alt
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
